@@ -10,4 +10,4 @@ En este repositorio se encuentran los siguientes archivos:
       * Evaluación
       * Conclusión
 3. Además, se pidió documentar la utilización de herramientas de AI, esto se encuentra en el PDF llamado "**Utilización de herramientas de AI**".
-4. Y finalmente, el output del notebook fueron los archivos .pkl (*columnas_modelo, threshold y modelo_xgboost_fraude*) los cuales son necesarios si se quiere probar el modelo en un notebook distinto al del desarrollo, algo así como una "simulación del modelo en producción" con "datos nuevos(**data_test**)" el cual se puede probar en el notebook "**funcion_predecir_fraude**".
+4. Y finalmente, el output del notebook fueron los archivos .pkl (*columnas_modelo, threshold y modelo_xgboost_fraude*) los cuales son necesarios si se quiere probar el modelo en un notebook distinto al del desarrollo, algo así como una "simulación del modelo en producción" con "datos nuevos (**data_test**)" el cual se puede probar en el notebook "**funcion_predecir_fraude**".
